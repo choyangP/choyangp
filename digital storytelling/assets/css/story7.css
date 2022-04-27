@@ -1,0 +1,89 @@
+body {
+    background-color: #d3cfcf;
+}
+
+#post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    position: relative;
+
+    top: 125px;
+    font-family: 'Montagu Slab', serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+
+#person {
+    font-size: 12px;
+    margin-left: 535px;
+    margin-top: -255px;
+    color:rgb(90, 90, 90);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#text1 {
+    font-size: 14px;
+    margin-left: 537px;
+    margin-top: -16px;
+    text-align: left;
+    position: absolute;
+    z-index: 1;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#audio1 {
+    margin-left: 526px;
+    margin-top: 70px;
+    width: 10%;
+}
+
+#person2 {
+    font-size: 12px;
+    margin-left: 535px;
+    margin-top: 4px;
+    color:rgb(90, 90, 90);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#text2 {
+    font-size: 12px;
+    margin-left: 570px;
+    margin-top: 50px;
+    text-align: left;
+    position: absolute;
+    z-index: 1;
+    color:rgb(90, 90, 90);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#person3 {
+    font-size: 12px;
+    margin-left: 535px;
+    margin-top: 85px;
+    color:rgb(90, 90, 90);
+    font-family:Arial, Helvetica, sans-serif;
+}
